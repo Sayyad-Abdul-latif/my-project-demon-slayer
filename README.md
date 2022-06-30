@@ -1,6 +1,6 @@
 # my-project-demon-slayer
 This is my first ever project  in git hub 
-This is the front part of my website
+This is the front part of my Blog
 
 ![Screenshot (178)](https://user-images.githubusercontent.com/108394503/176434231-537f4cd4-f010-4201-8225-8cf199734b96.png)
 
