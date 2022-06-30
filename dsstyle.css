@@ -109,7 +109,7 @@ flex: 1;
     
     margin-left: 70px;
 }
-.demon_picture img{
+.demon_picgiture img{
     border-radius: 20px;
 }
 .demon_prev h1{
@@ -123,3 +123,16 @@ flex: 1;
     width: 200px;
     height: 200px;
 }*/
+.demon_desc1{
+    font-size: 24px;
+    letter-spacing: 2px;
+    padding: 20px;
+    margin: 15px;
+    margin-top: 0px;
+    border-radius: 20px;
+    
+}
+.demon_desc1 p{
+    color: rgb(185, 184, 184);
+
+}
