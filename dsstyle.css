@@ -17,8 +17,13 @@ width: 90%;
 margin: auto;
 align-items: center;
 display: flex;
+position: sticky;
+top: 0;
+background-color: black;
+border-radius: 20px;
 }
 .demon_logo{
+    padding-left: 10px;
     flex:1;
 }
 nav {
