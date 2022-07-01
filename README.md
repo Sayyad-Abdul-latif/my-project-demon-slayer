@@ -2,19 +2,16 @@
 This is my first ever project  in git hub 
 This is the front part of my Blog
 
-![Screenshot (178)](https://user-images.githubusercontent.com/108394503/176434231-537f4cd4-f010-4201-8225-8cf199734b96.png)
-
 page1
-
-
-![Screenshot (180)](https://user-images.githubusercontent.com/108394503/176434698-4c71c1e1-03ab-4f34-add0-a2dab512828c.png)
+![d1](https://user-images.githubusercontent.com/108394503/176884561-2720831f-aef7-4afc-be61-7bcc648fcb1a.PNG)
 
 page2
+![d2](https://user-images.githubusercontent.com/108394503/176884581-7abeed5c-7fef-4d54-aae7-c9caad324c24.PNG)
 
-
-![Capture](https://user-images.githubusercontent.com/108394503/176435201-fbe16287-1494-4feb-ae01-782ceb14ed3d.PNG)
 
 page3
+![d3](https://user-images.githubusercontent.com/108394503/176884593-f3b687c0-51c0-4e77-8532-cf8a9bb2837e.PNG)
 
 
-![Capture](https://user-images.githubusercontent.com/108394503/176435396-ebc83f6a-7252-466e-89c3-549ce041a317.PNG)
+page4
+![d4](https://user-images.githubusercontent.com/108394503/176884606-94845764-8a27-468c-a215-2dd46b10d65f.PNG)
