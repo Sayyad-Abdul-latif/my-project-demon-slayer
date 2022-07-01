@@ -6,7 +6,7 @@
 }
 .home_demonslayer {
     min-width: 100%;
-    height: 400vh;
+    height: 350vh;
     background-color: black;
     background-position:center;
     background-size: cover;
@@ -109,11 +109,14 @@ flex: 1;
     
     margin-left: 70px;
 }
-.demon_picgiture img{
+.demon_picture img{
     border-radius: 20px;
 }
 .demon_prev h1{
     justify-self:center ;
+    background-color: rgb(46, 45, 45);
+    padding: 25px 30px;
+    border-radius: 10px;
 }
 /*.demon_picture1,.demon_picture2,.demon_picture3{
     display: flex;
@@ -123,16 +126,27 @@ flex: 1;
     width: 200px;
     height: 200px;
 }*/
-.demon_desc1{
+.demon_desc1,.demon_desc2,.demon_desc3{
     font-size: 24px;
     letter-spacing: 2px;
     padding: 20px;
     margin: 15px;
     margin-top: 0px;
     border-radius: 20px;
-    
+    border: 3px solid gray;
 }
-.demon_desc1 p{
+.demon_desc1 p,.demon_desc2 p,.demon_desc3 p{
     color: rgb(185, 184, 184);
+}
 
+.demon_prev p{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+        letter-spacing: 2px;
+        padding: 30px;
+        margin: 20px;
+        margin-top: 0px;
+        border-radius: 20px;
+       /* background-color: black;*/
 }
